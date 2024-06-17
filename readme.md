@@ -20,8 +20,8 @@ This is a simple RESTful API built with Spring Boot for user registration and fe
 1. **Clone the repository:**
 
     ```sh
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/anandpiyush1521/Makersharks-Assessment.git
+    cd Makersharks-Assessment
     ```
 
 2. **Update the `application.yml` file with your database configuration:**
